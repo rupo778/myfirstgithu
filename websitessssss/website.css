@@ -3,6 +3,32 @@
   padding: 0px;
 } 
 .website{
-    color: aqua;
-    cursor : pointer;
+    color: blue;
+    cursor:pointer;
 }
+.box{
+     padding: 20px;
+     background-color: blueviolet;
+     width: 110px;
+     height: 110px;
+    }
+.box2{
+      background-color: rgb(10, 186, 78);
+}
+.menus{
+    display: flex;
+}
+.logo.photo{
+    width: 120px;
+}
+.item{
+    margin: px;
+    padding-right: 7px;  
+    font-size: ;
+} 
+.item :hover{
+    color: blue;
+}
+
+
+
